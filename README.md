@@ -7,3 +7,4 @@ API integration.
 4)For loading/rendering we will use useEffect and its dependencies,default is[].
 5)use axios method :get,post,put,delete.
 6)from axios promise we set the data.
+7)we can fetch response by using response.data
